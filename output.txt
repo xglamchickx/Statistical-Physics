@@ -1,0 +1,18 @@
+
+Result below shows list of tuples, each tuple represent probability of each trianle triple case
+
+Each tuple contains three values, they are p of exiting longest side, opposite side and adjacent respectively, As required in 2) on Project4
+ These probabilities are shown below
+
+[(0.392, 0.289, 0.32), (0.398, 0.218, 0.385), (0.4, 0.256, 0.345), (0.431, 0.155, 0.415), (0.38, 0.303, 0.318), (0.404, 0.199, 0.398), (0.433, 0.152, 0.416), (0.383, 0.284, 0.334), (0.438, 0.15, 0.413), (0.427, 0.153, 0.421), (0.397, 0.268, 0.336), (0.423, 0.262, 0.316), (0.429, 0.122, 0.45), (0.41, 0.221, 0.37), (0.402, 0.221, 0.378), (0.395, 0.274, 0.332), (0.416, 0.145, 0.44), (0.399, 0.292, 0.31), (0.421, 0.118, 0.462), (0.401, 0.206, 0.394), (0.379, 0.271, 0.351), (0.458, 0.114, 0.429), (0.448, 0.136, 0.417), (0.407, 0.199, 0.395), (0.403, 0.275, 0.323), (0.417, 0.292, 0.292), (0.398, 0.181, 0.422), (0.461, 0.095, 0.445), (0.421, 0.189, 0.391), (0.386, 0.279, 0.336), (0.378, 0.263, 0.36), (0.428, 0.119, 0.454), (0.381, 0.243, 0.377), (0.401, 0.284, 0.316), (0.442, 0.113, 0.446), (0.396, 0.29, 0.315), (0.42, 0.165, 0.416), (0.373, 0.234, 0.394), (0.395, 0.247, 0.359), (0.434, 0.114, 0.453), (0.45, 0.073, 0.478), (0.424, 0.187, 0.39), (0.396, 0.176, 0.429), (0.412, 0.236, 0.353), (0.364, 0.26, 0.377), (0.391, 0.257, 0.353), (0.409, 0.158, 0.434)]
+
+Greatest probability is 0.461
+The Trangle is [19, 180, 181]
+
+Smallest probability is 0.364
+The Trangle is [160, 231, 281]
+
+My result find that (23,264,265) tend to be the greatest, (119,120,169) or (133, 156, 205)tend to be the smallest, with N increased up to 500000, which is consistant with the value
+
+Now proving equation (1) on page3, it might take a while, shortly after that we will plot the graph
+The validated result = 0.3932669
