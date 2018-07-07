@@ -1,7 +1,7 @@
 #Monte Carlo Method
 
 
-In MATH1402 file, there a simulation on Ant's movement. Suppose there is triangle, there is an ant on the triangle, We want to know the approximate probability of the ant leaving at the longest side. Hence We use Monte Carlo Approach to do it.
+In MATH1402 file, there a simulation on Ant's movement. Suppose there's a triangle, there's also an ant on the triangle. Suppose we want to know the approximate probability of the ant leaving at the longest side, hence We use Monte Carlo Approach to do it.
 
 <h4> History of Monte Carlo </h4><br>
 
@@ -28,6 +28,6 @@ approximate accurate financial scenarios.
 
 <hr> -->
 
-I like Physics very much, once upon a time I wanted to pursue it as a profession but unfortunately things didn't work out the way I wish, but it doesn't mean that I have given this up.
+I like Physics very much, once upon a time I wanted to pursue it as a profession but unfortunately things didn't work out the way I wish, but it doesn't mean that I have given this up. I read Physics and Biology during my free time. I recommend <a href="http://www.fizika.unios.hr/rf/wp-content/uploads/sites/67/2011/02/CPwP.pdf">this</a>, It's a book on Computation physics, It's fun to read, easy to understand...
 
 
