@@ -17,7 +17,7 @@ In MATH1402 file, there a simulation on Ant's movement. Suppose there's a triang
 
 I like Physics very much, once upon a time I wanted to pursue it as a profession but unfortunately things didn't work out the way I wish, but it doesn't mean that I have given this up. I read Physics and Biology during my free time. I recommend <a href="http://www.fizika.unios.hr/rf/wp-content/uploads/sites/67/2011/02/CPwP.pdf">this</a>, It's a book on Computation physics, It's fun to read, easy to understand...
 
-<h4> History of Monte Carlo </h4><br>
+<h4> History of Monte Carlo </h4>
 The modern form of Monte Carlo dates back the 1940s when the following scientists Enrico
 Fermi (Physicist), Stanislaw Ulam (Mathematician) and John Von Neumann whilst working Los
 Alamos Scientific Laboratory which was part of the Manhattan Project.<br>
