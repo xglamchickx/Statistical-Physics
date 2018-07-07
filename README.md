@@ -1,4 +1,4 @@
-### Chaos Theory, Monte Carlo Method and Shochastic Method
+### Chaos Theory, Monte Carlo Method, Shochastic Method, Schrödinger equation
 
 
 In MATH1402 file, there a simulation on Ant's movement. Suppose there's a triangle, there's also an ant on the triangle. Suppose we want to know the approximate probability of the ant leaving at the longest side, hence I used Monte Carlo Approach to do it.
